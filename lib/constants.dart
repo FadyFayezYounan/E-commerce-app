@@ -1,0 +1,1 @@
+const double KAppPadding = 16.0;

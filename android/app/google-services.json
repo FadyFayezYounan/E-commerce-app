@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "568874906966",
+    "project_id": "shop-app-5e886",
+    "storage_bucket": "shop-app-5e886.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568874906966:android:65dba54664d41316ae12f7",
+        "android_client_info": {
+          "package_name": "com.fady.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568874906966-6gbbp55rgab16o091vn38k4p7jf3kqq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fady.shop_app",
+            "certificate_hash": "0f4810842f6b13c7d7bf4757623eb4cc9464ba5e"
+          }
+        },
+        {
+          "client_id": "568874906966-5isav1sg4rcqhptiv40l10kqkatj37js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgpmEUjd073thxTCWmEkyn5iTK3YTpA7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568874906966-5isav1sg4rcqhptiv40l10kqkatj37js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
